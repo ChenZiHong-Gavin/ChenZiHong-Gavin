@@ -1,6 +1,6 @@
 ### Hi there 👋
 ### 📫 How to reach me:
-* Website: www.chenzihong.com
+* Website: www.chenzihong-gavin.github.io
 * QQ: 909843505
 * Bilibili: https://space.bilibili.com/291947905
 * Zhihu: https://www.zhihu.com/people/cheng-zi-hong-97
