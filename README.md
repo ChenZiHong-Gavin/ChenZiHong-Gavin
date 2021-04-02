@@ -7,6 +7,8 @@
 ### ⚡ Fun fact:
 * fan of Rick and Morty
 * skateboarding
+### 👯 I’m looking to collaborate on:
+* A campus code transaction platform
 <!--
 **ChenZiHong-Gavin/ChenZiHong-Gavin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
