@@ -1,6 +1,6 @@
 ### Hi there 👋
 ### 📫 How to reach me:
-* Website: www.chenzihong-gavin.github.io
+* Website: [![Blog](https://img.shields.io/badge/-https://chenzihong--gavin.github.io-8696a7?style=flat-square&logo=Blogger&logoColor=c1cbd7)](https://chenzihong-gavin.github.io)
 * Email: [![Email](https://img.shields.io/badge/-909843505@qq.com-965454?style=flat-square&logo=Mail.RU&logoColor=white&labelColor=965454)](mailto:909843505@qq.com)
 * Bilibili: https://space.bilibili.com/291947905
 * Zhihu: https://www.zhihu.com/people/cheng-zi-hong-97
