@@ -8,10 +8,7 @@
 * fan of Rick and Morty
 * skateboarding
 ### 👯 I’m looking to collaborate on:
-* A campus code transaction platform
-* A user-friendly get-it-down app
-* A website for systematic creative thinking
-
+* Computer Science X Art
 
 
 ![](https://raw.githubusercontent.com/chenzihong-gavin/chenzihong-gavin/main/assets/github-contribution-grid-snake.svg)    
