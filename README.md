@@ -9,6 +9,3 @@
 * skateboarding
 ### 👯 I’m looking to collaborate on:
 * Computer Science X Art
-
-
-![](https://raw.githubusercontent.com/chenzihong-gavin/chenzihong-gavin/main/assets/github-contribution-grid-snake.svg)    
