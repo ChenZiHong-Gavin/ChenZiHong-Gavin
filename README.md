@@ -7,3 +7,5 @@
 * skateboarding
 ### 👯 I’m looking to collaborate on:
 * Computer Science X Art
+
+Currently working on LLM **Graph RAG**
