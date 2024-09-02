@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm ChenZihong-Gavin
 
 <p align="center">
-  <img src="assets/totoro.gif" width="48"/>
+  <img src="assets/totoro.webp" width="48"/>
 </p>
 
 ### Technology Stack
