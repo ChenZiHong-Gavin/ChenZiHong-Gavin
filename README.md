@@ -4,16 +4,14 @@
   <img src="assets/totoro.webp" width="48"/>
 </p>
 
-### Technology Stack
+### :iphone: Technology Stack
 * LLM pre-training/fine-tuning/post-training/RLHF
 * LLM + KG
 * Front-end development: React
-### Projects
+### ⚡ Projects
 * <a href="https://github.com/ChenZiHong-Gavin/Polish-Your-Prompt">Polish Your Prompt</a> - Make anyone master of prompt engineering.
 * <a href="https://github.com/ChenZiHong-Gavin/TALES-FROM-THE-THOUSAND-AND-ONE-NIGHTS">TALES FROM THE THOUSAND AND ONE NIGHTS</a> - A creative platform for Chinese classic movies.
-### ⚡ Fun fact:
-* crazy about Rick and Morty
-* skateboarding
+
 ### 👯 I’m looking to collaborate on:
 * Computer Science X Art
 ### 📫 How to reach me:
