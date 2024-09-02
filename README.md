@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm ChenZihong-Gavin
 
 <p align="center">
-  <img src="assets/totoro.webp" width="48"/>
+  <img src="assets/totoro.gif" width="48"/>
 </p>
 
 ### Technology Stack
@@ -9,7 +9,7 @@
 * LLM + KG
 * Front-end development: React
 ### Projects
-* <a href="https://github.com/ChenZiHong-Gavin/Polish-Your-Prompt"></a> - Make anyone master of prompt engineering.
+* <a href="https://github.com/ChenZiHong-Gavin/Polish-Your-Prompt">Polish Your Prompt</a> - Make anyone master of prompt engineering.
 * <a href="https://github.com/ChenZiHong-Gavin/TALES-FROM-THE-THOUSAND-AND-ONE-NIGHTS">TALES FROM THE THOUSAND AND ONE NIGHTS</a> - A creative platform for Chinese classic movies.
 ### ⚡ Fun fact:
 * crazy about Rick and Morty
