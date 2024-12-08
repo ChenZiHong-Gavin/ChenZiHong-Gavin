@@ -5,7 +5,7 @@
 </p>
 
 ### :iphone: Technology Stack
-* LLM pre-training/fine-tuning/post-training/RLHF
+* LLM pretrain/SFT/RLHF
 * LLM + KG
 * Front-end development: React
 ### ⚡ Projects
