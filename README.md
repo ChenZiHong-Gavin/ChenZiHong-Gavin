@@ -9,6 +9,7 @@
 * LLM + KG
 * Front-end development: React
 ### ⚡ Projects
+* <a href="https://github.com/ChenZiHong-Gavin/MoE-Visualizer">MoE-Visualizer</a> - Visualize the selection of experts in Mixture-of-Experts (MoE) models.
 * <a href="https://github.com/ChenZiHong-Gavin/Polish-Your-Prompt">Polish Your Prompt</a> - Make anyone master of prompt engineering.
 * <a href="https://github.com/ChenZiHong-Gavin/TALES-FROM-THE-THOUSAND-AND-ONE-NIGHTS">TALES FROM THE THOUSAND AND ONE NIGHTS</a> - A creative platform for Chinese classic movies.
 
